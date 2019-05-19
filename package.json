@@ -1,0 +1,14 @@
+{
+  "name": "integration",
+  "version": "1.0.0",
+  "description": "Frame integration script",
+  "main": "frame.js",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-env": "^1.5.2",
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-uglify": "^3.0.0"
+  }
+}
